@@ -182,11 +182,11 @@
     <repositories>
         <repository>
             <id>repo.jenkins-ci.org</id>
-            <url>http://repo.jenkins-ci.org/public/</url>
+            <url>https://repo.jenkins-ci.org/public/</url>
         </repository>    
         <repository>
             <id>jgit-repository</id>
-            <url>http://eclipse.ialto.org/jgit/maven/</url>
+            <url>https://eclipse.ialto.org/jgit/maven/</url>
         </repository>
     </repositories>
 
@@ -201,7 +201,7 @@
     <pluginRepositories>
         <pluginRepository>
             <id>repo.jenkins-ci.org</id>
-            <url>http://repo.jenkins-ci.org/public/</url>
+            <url>https://repo.jenkins-ci.org/public/</url>
         </pluginRepository>
     </pluginRepositories>
 </project>  
